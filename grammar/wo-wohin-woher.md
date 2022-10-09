@@ -4,7 +4,7 @@
 
 (der Supermarkt) Ich bin im Supermarkt. Ich gehe zum Supermarkt. Der Supermarkt ist gegenüber der Apotheke. 
 
-(der Blumenladen) Ich bin im Blumenladen. Ich gehe  in den Blumenladen. Es ist vor der Ampel. 
+(der Blumenladen) Ich bin im Blumenladen. Ich gehe in den Blumenladen. Es ist vor der Ampel. 
 
 (das Ikea) Ich bin bei Ikea. Ich gehe zu Ikea. 
 
@@ -13,4 +13,6 @@
 (der Biergarten) Ich bin im Biergarten. Ich gehe in der Biergarten. Der Biergarten ist über die Brücke. 
 
 (der Zahnarzt) Ich bin beim Zahnarzt. Ich gehe zum Zahnarzt. Der Zahnarzt ist entlang dieser Straße. 
+
+(das Gebäude) Ich bin im Gebäude. Ich gehe zum Gebäude. Ich gehe in das Gebäude. 
 
